@@ -1,4 +1,3 @@
-## 🍽️ 메뉴 추천 서비스 FlavorPath
 ![Frame 1](https://github.com/user-attachments/assets/9bbc5502-e046-43f9-8d72-b1fdea5be445)
 
 
