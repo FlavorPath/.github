@@ -1,15 +1,16 @@
 ![Frame 1](https://github.com/user-attachments/assets/9bbc5502-e046-43f9-8d72-b1fdea5be445)
 
 
-| 배포 URL | 디자인 | 테스트용 아이디 | 테스트용 비밀번호 |
-| -- | -- | -- | -- |
-|  | [Figma](https://www.figma.com/design/A6ugYAMD0FDL9aMJ5hNQY8/1%EC%A1%B0-%ED%8C%80%ED%94%8C-%EA%B8%B0%ED%9A%8D%EC%95%88) | `test` | `12341234` |
+| 배포 URL  | 테스트용 아이디 | 테스트용 비밀번호 |
+| --  | -- | -- |
+|  | `test` | `12341234` |
 
 <br />
 
 ## 프로젝트 소개
 - 사용자의 위치와 선호도에 맞춰 다양한 메뉴를 추천해주는 서비스
 - 주요 타겟: 메뉴 선택에 어려움을 겪는 모든 사람
+- [디자인 Figma](https://www.figma.com/design/A6ugYAMD0FDL9aMJ5hNQY8/1%EC%A1%B0-%ED%8C%80%ED%94%8C-%EA%B8%B0%ED%9A%8D%EC%95%88)
 
 <br />
 
