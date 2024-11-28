@@ -1,7 +1,8 @@
-**![Frame 1](https://github.com/user-attachments/assets/9bbc5502-e046-43f9-8d72-b1fdea5be445)
+
+![Frame 1](https://github.com/user-attachments/assets/9bbc5502-e046-43f9-8d72-b1fdea5be445)
 
 
-| 배포 URL  | 테스트용 아이디 | 테스트용 비밀번호 |a
+| 배포 URL  | 테스트용 아이디 | 테스트용 비밀번호 |
 | --  | -- | -- |
 |  | `test` | `12341234` |
 
