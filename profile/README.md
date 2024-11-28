@@ -87,7 +87,7 @@ backend
 <br />
 
 ## 트러블슈팅
-- **[라벨에 의한 마커패칭시 화면 깜빡임 문제 해결]([https://clean-indigo-57d.notion.site/14c382bd5b8e80bbbaa6ed4d6fa6f603?pvs=4](https://graceful-dresser-be9.notion.site/Feat-prefetching-14c011daa17b80568ad5df102a471f33?pvs=4))** 
+- **[라벨에 의한 마커패칭시 화면 깜빡임 문제 해결](https://graceful-dresser-be9.notion.site/Feat-prefetching-14c011daa17b80568ad5df102a471f33)** 
 - **[데이터베이스 설계 및 데이터 중복 문제 해결](https://clean-indigo-57d.notion.site/14c382bd5b8e80bbbaa6ed4d6fa6f603?pvs=4)** 
   
 <br />
