@@ -83,7 +83,7 @@ backend
 ├── app.js
 └── server.js 
 ```
-
+- **[데이터베이스 설계 설명](https://clean-indigo-57d.notion.site/DB-14d382bd5b8e80f4b9a4f6bf71df047f?pvs=4)**
 <br />
 
 ## 트러블슈팅
@@ -103,8 +103,15 @@ backend
 
 <br />
 
+## 향후 개선 사항
+ - 로딩 에러 처리의 개선 사항
+ - 관리자 페이지 생성
+ - 백엔드에서의 사진 관리
+ - 리프레쉬 토큰과 로그아웃 구현
+<br />
+
 ## FlavorPath 팀
-| 한태동 | 심채윤 | 조성민 | 정동현 |
+| [한태동](https://github.com/HANTAEDONG) | [심채윤](https://github.com/chaeyun-sim) | [조성민](https://github.com/Ss0Mae) | [정동현](https://github.com/peppertown) |
 | -- | -- | -- | -- |
 | <img src="https://avatars.githubusercontent.com/u/132195232?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/111689342?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/80831228?v=4" width="120" />  | <img src="https://avatars.githubusercontent.com/u/142657661?v=4" width="120" />  |
 | <p align="center">FE</p> | <p align="center">FE</p> | <p align="center">BE</p> | <p align="center">BE</p> |
